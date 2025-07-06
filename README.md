@@ -57,8 +57,8 @@ This Excel dashboard includes:
 
 ## 📄 Project File
 
-📥 [Download Dashboard (PDF)](Smart_City_Analysis_Dashboard.pdf)  
-📁 `.xlsx` available in the repository under `/Airline_Satisfaction_Dashboard.xlsx`
+📥 [Download Dashboard (PDF)](https://github.com/Anziya-AS/Airline-Customer-Satisfaction-Dashboard/raw/main/Airline%20Customer%20Satisfaction%20Dashboard.pdf)  
+
 
 ---
 
